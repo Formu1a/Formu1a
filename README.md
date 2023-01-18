@@ -25,5 +25,5 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=Facebook&logoColor=White)](https://www.facebook.com/F0rmu1a/)
 [![CodeWars](https://img.shields.io/badge/-CodeWars-black?style=for-the-badge&logo=CodeWars&logoColor=White)](https://www.codewars.com/users/Formu1a)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Formu1a&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Formu1a&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Formu1a&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Formu1a&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
