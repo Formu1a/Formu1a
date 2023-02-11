@@ -1,6 +1,6 @@
 [![Header](https://github.com/Formu1a/Formu1a/blob/main/assets/FirstGif.gif)](https://www.linkedin.com/in/kirill-borisevich/)
 
-## I'm a Junior Front-end Developer, nice to meet you!!! 😉
+## I'm a Software Engineer, nice to meet you!!! 😉
 
 ### Languages and Tools
 
